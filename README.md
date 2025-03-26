@@ -63,4 +63,5 @@ Contributions to improve functionality or code quality are welcome. Please submi
 
 ## License
 
-This project is provided "as-is" without any warranties. Use and modify the code according to your requirements.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). You are free to use, modify, and distribute the software under the terms of the GPL-3.0 license. For full details, see [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html).
+
